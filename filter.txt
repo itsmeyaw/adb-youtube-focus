@@ -8,6 +8,6 @@
 ! WritingRules: https://adblockplus.org/filters
 !
 ! Hiding recommendation in playing video
-youtube.com###secondary
+youtube.com,www.youtube.com###secondary
 ! Hiding recommendations in main site
-youtube.com##ytd-browse
+youtube.com,www.youtube.com##ytd-browse
