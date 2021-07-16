@@ -4,7 +4,7 @@
 ! Version: 0.1
 ! Expires: 1 days
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
-! Homepage: https://github.com/itsmeyaw/adb-youtube-focus
+! Homepage: https://github.com/itsmeyaw/youtube-focus
 ! WritingRules: https://adblockplus.org/filters
 !
 ! Hiding recommendation in playing video
